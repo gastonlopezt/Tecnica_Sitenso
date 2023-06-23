@@ -12,11 +12,11 @@ Este repositorio contiene un proyecto que utiliza una API externa para obtener d
 
 ## Capturas de pantalla del proyecto
 
-![Captura de pantalla 1](https://gyazo.com/2e4c917944327e940ba18d377480635b)
-![Captura de pantalla 2](https://gyazo.com/fcceae1d7f78ccf1cbc3c9487057dbf0)
-![Captura de pantalla 3](https://gyazo.com/9e88610d7ff80dc974ad06cfb58a0421)
-![Captura de pantalla 4](https://gyazo.com/bf04d71de402ad03ad89d5850b05cfb4)
-![Captura de pantalla 5](https://gyazo.com/c1d500d1e1776d0df032c52982eb7a8e)
+![Main](https://gyazo.com/2e4c917944327e940ba18d377480635b)
+![Comics](https://gyazo.com/fcceae1d7f78ccf1cbc3c9487057dbf0)
+![Selected Comic](https://gyazo.com/9e88610d7ff80dc974ad06cfb58a0421)
+![Characters](https://gyazo.com/bf04d71de402ad03ad89d5850b05cfb4)
+![Selected Characters](https://gyazo.com/c1d500d1e1776d0df032c52982eb7a8e)
 
 ## Instalación
 
